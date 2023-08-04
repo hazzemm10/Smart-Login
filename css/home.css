@@ -1,0 +1,23 @@
+body{
+    background-color: #24353F;
+    height: 100vh;
+}
+
+#Logout{
+    margin-top: 12px;
+    color: white;
+    border: 2px solid;
+    transition:all .5s ;
+}
+#Logout:hover{
+color: #071823;
+background-color: white;
+
+}
+.content{
+    width: 60%;
+    margin-top: 50px !important;
+    
+    background-color: #24353F;
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;    
+}
